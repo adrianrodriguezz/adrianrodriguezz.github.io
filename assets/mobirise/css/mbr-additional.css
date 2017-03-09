@@ -427,6 +427,8 @@ h6,
 #form1-h .mbr-section-title {
   color: #ffffff;
 }
+
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -494,12 +496,18 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header2-0 .mbr-section-title {
+#header1-1r .mbr-section-title {
+  text-align: right;
   color: #ffffff;
-  text-align: center;
 }
-#header2-0 .mbr-section-text {
+#header1-1r .mbr-section-lead {
+  text-align: right;
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
   color: #ffffff;
+}
+#header1-1r .btn {
+  font-family: 'Indie Flower', cursive;
 }
 #msg-box8-r .mbr-section-title,
 #msg-box8-r p {
@@ -527,6 +535,9 @@ h6,
 #msg-box8-q p {
   color: #fff;
 }
+
+
+
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -594,6 +605,13 @@ h6,
 #menu-i .close-icon::after {
   background-color: #ffffff;
 }
+#header1-p .mbr-section-lead {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+#header1-p .btn {
+  font-family: 'Indie Flower', cursive;
+}
 #msg-box8-16 .mbr-section-title,
 #msg-box8-16 p {
   color: #fff;
@@ -605,6 +623,9 @@ h6,
 #msg-box8-1e .mbr-section-title,
 #msg-box8-1e p {
   color: #fff;
+}
+#buttons1-1l .btn {
+  font-family: 'Indie Flower', cursive;
 }
 #msg-box8-19 .mbr-section-title,
 #msg-box8-19 p {
@@ -618,6 +639,7 @@ h6,
 #msg-box8-1j p {
   color: #fff;
 }
+
 
 #menu-1m .hide-buttons .nav-btn {
   display: none !important;
@@ -691,5 +713,8 @@ h6,
   color: #fff;
 }
 #msg-box8-1n .lead P {
+  font-family: 'Indie Flower', cursive;
+}
+#gallery3-1o .mbr-gallery-item > div > span {
   font-family: 'Indie Flower', cursive;
 }
