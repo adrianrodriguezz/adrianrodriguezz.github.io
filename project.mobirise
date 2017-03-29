@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -203,7 +203,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -654,7 +654,7 @@
     },
     "index.html": {
       "settings": {
-        "order": 2,
+        "order": 1,
         "title": "Adrian Rodriguez"
       },
       "components": [
@@ -870,11 +870,11 @@
           "_name": "content8",
           "_anchor": "content8-1t",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rainbow-iron-fist-2000x1125-2.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -882,9 +882,9 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/S0DSvJwLe8s?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.1",
             "overlayColor": "#fac51c",
             "showTitle": true,
             "showCaption": false
@@ -908,7 +908,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/unknown-2000x2003.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/unknown-2000x2004.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
