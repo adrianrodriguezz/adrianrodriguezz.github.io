@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 67,
-    "versionPublish": "3.10.8",
+    "uniqCompNum": 69,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -857,40 +857,38 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_inherit": "content5",
           "_styles": {
             ".mbr-section-title, p": {
-              "text-align": "right",
               "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-1t",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1w",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rainbow-iron-fist-2000x1125-2.jpg",
-            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rainbow-iron-fist-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/S0DSvJwLe8s?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#fac51c",
-            "showTitle": true,
-            "showCaption": false
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": true
           },
-          "title": "",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "  <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/watch?v=Ha9iemwyfO8\" data-toolbar=\"-mbrBtnMove\">See My Story</a> "
         },
         {
           "_styles": {
@@ -908,7 +906,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/unknown-2000x2004.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/unknown-2000x2003.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
